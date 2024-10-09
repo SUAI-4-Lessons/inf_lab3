@@ -6,4 +6,4 @@ y2 = arrayfun(f2, x)
 
 plot(x, y1, x, y2)
 
-legend('f1',' f2')
+legend('f1','f2')
